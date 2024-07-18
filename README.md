@@ -1,0 +1,2 @@
+# ES_Search_System
+使用 Elasticsearch 制作一个搜索中台项目，并且后期可以与其他项目中的搜索功能进行融合
